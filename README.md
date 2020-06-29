@@ -1,5 +1,5 @@
 # Riksdagen
-Container för var olika saker finns
+Container för var olika saker
 ## Jupyter Notebooks
 * [SOU](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SOU.ipynb) ([en](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-en.ipynb))
 * [SFS](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SFS.ipynb)
@@ -17,3 +17,7 @@ Container för var olika saker finns
 * GITHUB
   * [Reicher/RiksdagenPythonAPI](https://github.com/Reicher/RiksdagenPythonAPI)
   * [ErikBjare/MyRiksdag](https://github.com/ErikBjare/MyRiksdag)
+* openparliament.tv
+  * |Proposal](https://openparliament.tv/proposal)
+    * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
+* Telegram "Wikidata Sverige"
