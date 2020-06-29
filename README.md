@@ -17,6 +17,7 @@ Container för var olika saker
 * GITHUB
   * [Reicher/RiksdagenPythonAPI](https://github.com/Reicher/RiksdagenPythonAPI)
   * [ErikBjare/MyRiksdag](https://github.com/ErikBjare/MyRiksdag)
+  * [Riksdagskollen](https://github.com/axelca/riksdagskollen) [web](https://rikskoll.netlify.app/)
 * openparliament.tv
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
