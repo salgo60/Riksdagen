@@ -1,5 +1,5 @@
 # Riksdagen
-Container för var olika saker
+Container för olika saker som är mer eller mindre kopplade till Wikidata <-> Riksdagen
 ## Jupyter Notebooks
 * [SOU](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SOU.ipynb) ([en](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-en.ipynb))
 * [SFS](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SFS.ipynb)
