@@ -18,6 +18,6 @@ Container för var olika saker
   * [Reicher/RiksdagenPythonAPI](https://github.com/Reicher/RiksdagenPythonAPI)
   * [ErikBjare/MyRiksdag](https://github.com/ErikBjare/MyRiksdag)
 * openparliament.tv
-  * |Proposal](https://openparliament.tv/proposal)
+  * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
 * Telegram "Wikidata Sverige"
