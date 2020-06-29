@@ -20,6 +20,7 @@ Container för olika saker som är mer eller mindre kopplade till Wikidata <-> R
   * [Reicher/RiksdagenPythonAPI](https://github.com/Reicher/RiksdagenPythonAPI)
   * [ErikBjare/MyRiksdag](https://github.com/ErikBjare/MyRiksdag)
   * [Riksdagskollen](https://github.com/axelca/riksdagskollen) [web](https://rikskoll.netlify.app/)
+  * [Mandatkollen](https://github.com/Iteam1337/mandatkollen)
 * openparliament.tv
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
