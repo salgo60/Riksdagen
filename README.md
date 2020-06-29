@@ -9,6 +9,8 @@ Container för olika saker som är mer eller mindre kopplade till Wikidata <-> R
 * [Motioner](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner.ipynb)
 * [Betänknande](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Kommitt%C3%A9direktiv.ipynb)
 * [Direktiv](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Kommitt%C3%A9direktiv.ipynb)
+* Skriftliga frågor 
+* Interporlationer
 # Links
 * Wikipedia/Wikidata
   * [Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents)
