@@ -7,7 +7,7 @@ Container för olika saker som är mer eller mindre kopplade till Wikidata <-> R
 * [Ledamöter](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20ledam%C3%B6ter.ipynb)
 * [Dokumenttyper](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokumenttyper.ipynb)
 * [Motioner](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner.ipynb)
-* Betänknande
+* [Betänknande](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Kommitt%C3%A9direktiv.ipynb)
 * [Direktiv](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Kommitt%C3%A9direktiv.ipynb)
 # Links
 * Wikipedia/Wikidata
