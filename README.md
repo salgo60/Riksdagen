@@ -16,6 +16,10 @@ Container för olika saker som är mer eller mindre kopplade till Wikidata <-> R
   * [Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents)
   * [Diskussion:Lista_över_svenska_riksdagar](https://sv.wikipedia.org/wiki/Diskussion:Lista_%C3%B6ver_svenska_riksdagar)
   * [Wikidata:WikiProject_every_politician/Sweden](https://www.wikidata.org/wiki/Wikidata:WikiProject_every_politician/Sweden)
+* Properties
+  * [Riksdagens person-id P1214](https://www.wikidata.org/wiki/Property:P1214)
+  * [Riksdagen person guid P8388](https://www.wikidata.org/wiki/Property:P8388)
+  * Draft Proposal [Swedish Riksdag document](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Swedish_Riksdag_document)
 * GITHUB
   * [Reicher/RiksdagenPythonAPI](https://github.com/Reicher/RiksdagenPythonAPI)
   * [ErikBjare/MyRiksdag](https://github.com/ErikBjare/MyRiksdag)
