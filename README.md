@@ -1,6 +1,7 @@
 # Riksdagen
 Container för olika saker som är mer eller mindre kopplade till Wikidata <-> Riksdagen
 ## Jupyter Notebooks
+innehåller kod och data som hämtats
 * [SOU](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SOU.ipynb) ([en](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-en.ipynb))
 * [SFS](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SFS.ipynb)
 * [KU anmälningar](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20KU-anm%C3%A4lningar.ipynb)
