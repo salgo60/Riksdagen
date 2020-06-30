@@ -21,7 +21,7 @@ Container för olika saker som är mer eller mindre kopplade till Wikidata <-> R
   * [Riksdagen person guid P8388](https://www.wikidata.org/wiki/Property:P8388)
   * Draft Proposal [Swedish Riksdag document](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Swedish_Riksdag_document)
 * GITHUB
-  * [tmtmtmtm/sweden-riksdag-api-current](https://github.com/tmtmtmtm/sweden-riksdag-api-current)
+  * [tmtmtmtm/sweden-riksdag-api-current](https://github.com/tmtmtmtm/sweden-riksdag-api-current) did some uploading cleaning....
   * [Reicher/RiksdagenPythonAPI](https://github.com/Reicher/RiksdagenPythonAPI)
   * [ErikBjare/MyRiksdag](https://github.com/ErikBjare/MyRiksdag)
   * [Riksdagskollen](https://github.com/axelca/riksdagskollen) [web](https://rikskoll.netlify.app/)
