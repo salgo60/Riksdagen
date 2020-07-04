@@ -43,4 +43,8 @@ innehåller kod och data som hämtats
 * [sheXer](http://shexer.weso.es/) / [rdfshape](http://rdfshape.weso.es) 
  * [wikishape](http://wikishape.weso.es/) [GITHUB](https://github.com/weso/wikishape/issues)
 * [WikiProject Schemas/Tutorial](Wikidata:WikiProject Schemas/Tutorial)
-
+## Draft queries for session
+* Query to be used for buildiung ShEx
+* Query that gives 349 and shoiuld be validated
+### Questions
+1. can we set range dates for start pq:P580 > xxxx
