@@ -38,3 +38,8 @@ innehåller kod och data som hämtats
 * openparliament.tv
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
+# ShEx
+* [sheXer](http://shexer.weso.es/) / [rdfshape](http://rdfshape.weso.es) 
+ * [wikishape](http://wikishape.weso.es/) [GITHUB](https://github.com/weso/wikishape/issues)
+* [WikiProject Schemas/Tutorial](Wikidata:WikiProject Schemas/Tutorial)
+
