@@ -31,7 +31,9 @@ innehåller kod och data som hämtats
   * [jonwarghed/RostRecept](https://github.com/jonwarghed/RostRecept) a little program that interacts with Riksdagens API to find what your riksdagsman voted for
   * [github.com/ragulin/mds-riksdagen](https://github.com/ragulin/mds-riksdagen) [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling) visualizations of the swedish parliament
   * [Citizen Intelligence Agency](https://github.com/Hack23/cia) "Tracking politicians like bugs. Citizen Intelligence Agency is independent and non-partisan voluntary project....Visualize political activity in Sweden, present key performance indicators and metadata for the actors on national level."
+* Telegram "Wikidata Sverige"
+# Other projects 
+* [Parline](https://data.ipu.org/)
 * openparliament.tv
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
-* Telegram "Wikidata Sverige"
