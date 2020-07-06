@@ -40,6 +40,7 @@ innehåller kod och data som hämtats
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
 * [www.politicindex.de](https://www.politicindex.de/) - [video](https://www.youtube.com/watch?v=OzwCqMdXHjs&feature=youtu.be)
 # ShEx
+<a name="ShEx"></a>
 * [sheXer](http://shexer.weso.es/) / [rdfshape](http://rdfshape.weso.es) 
  * [wikishape](http://wikishape.weso.es/) [GITHUB](https://github.com/weso/wikishape/issues)
 * [WikiProject Schemas/Tutorial](https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas/Tutorial)
