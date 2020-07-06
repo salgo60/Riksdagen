@@ -42,9 +42,9 @@ innehåller kod och data som hämtats
 # ShEx
 * [sheXer](http://shexer.weso.es/) / [rdfshape](http://rdfshape.weso.es) 
  * [wikishape](http://wikishape.weso.es/) [GITHUB](https://github.com/weso/wikishape/issues)
-* [WikiProject Schemas/Tutorial](Wikidata:WikiProject Schemas/Tutorial)
+* [WikiProject Schemas/Tutorial](https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas/Tutorial)
 ## Draft queries for session
-* Query to be used for buildiung ShEx
-* Query that gives 349 and shoiuld be validated
+* Query to be used for [building ShEx](https://w.wiki/W56)
+* Query [that gives 349](https://w.wiki/W54) and should be validated
 ### Questions
-1. can we set range dates for start pq:P580 > xxxx
+1. can we set range dates for start dat pq:P580 > [Q18332247](https://www.wikidata.org/wiki/Q18332247) "2018 Swedish general election"
