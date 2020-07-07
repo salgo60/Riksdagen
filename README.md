@@ -33,12 +33,15 @@ innehåller kod och data som hämtats
   * [github.com/ragulin/mds-riksdagen](https://github.com/ragulin/mds-riksdagen) [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling) visualizations of the swedish parliament
   * [Citizen Intelligence Agency](https://github.com/Hack23/cia) "Tracking politicians like bugs. Citizen Intelligence Agency is independent and non-partisan voluntary project....Visualize political activity in Sweden, present key performance indicators and metadata for the actors on national level."
 * Telegram "Wikidata Sverige"
+* Live sessions
+  * Jan Ainali is doing SPARQL searching on Swedish Riksdags (OM) members - [Wikipedia Weekly Network - LIVE Wikidata editing #10](https://www.youtube.com/watch?v=q2iTKemFrq4
 # Other projects 
 * [Parline](https://data.ipu.org/)
 * openparliament.tv
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
 * [www.politicindex.de](https://www.politicindex.de/) - [video](https://www.youtube.com/watch?v=OzwCqMdXHjs&feature=youtu.be)
+
 # ShEx
 <a name="ShEx"></a>
 * [sheXer](http://shexer.weso.es/) / [rdfshape](http://rdfshape.weso.es) 
