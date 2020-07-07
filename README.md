@@ -34,7 +34,7 @@ innehåller kod och data som hämtats
   * [Citizen Intelligence Agency](https://github.com/Hack23/cia) "Tracking politicians like bugs. Citizen Intelligence Agency is independent and non-partisan voluntary project....Visualize political activity in Sweden, present key performance indicators and metadata for the actors on national level."
 * Telegram "Wikidata Sverige"
 * Live sessions
-  * Jan Ainali is doing SPARQL searching on Swedish Riksdags (OM) members - [Wikipedia Weekly Network - LIVE Wikidata editing #10](https://www.youtube.com/watch?v=q2iTKemFrq4
+  * Jan Ainali is doing SPARQL searching on Swedish Riksdags (OM) members - [Wikipedia Weekly Network - LIVE Wikidata editing #10](https://www.youtube.com/watch?v=q2iTKemFrq4)
 # Other projects 
 * [Parline](https://data.ipu.org/)
 * openparliament.tv
