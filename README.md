@@ -3,6 +3,7 @@ Container for different things conncted with Wikidata <-> and the Swedish Parlia
 ## Jupyter Notebooks
 innehåller kod och data som hämtats
 * [SOU](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SOU.ipynb) ([en](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-en.ipynb))
+  * Linköping [Swedish Government Official Reports (SOU) 1922 - 2019 (up to 2020:29)](https://ep.liu.se/databases/sou/)
 * [SFS](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SFS.ipynb)
 * [KU anmälningar](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20KU-anm%C3%A4lningar.ipynb)
 * [Ledamöter](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20ledam%C3%B6ter.ipynb)
