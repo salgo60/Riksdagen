@@ -50,6 +50,7 @@ innehåller kod och data som hämtats
 * [WikiProject Schemas/Tutorial](https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas/Tutorial)
 * wikidatacon  2019  event [Data Quality Panel](https://media.ccc.de/v/wikidatacon2019-9-data_quality_panel#t=2874)
 * wikidatacon  2017  event [Using Shape Expressions for data quality and consistency in Wikidata](https://media.ccc.de/v/wikidatacon2017-10032-using_shape_expressions_for_data_quality_and_consistency_in_wikidata)
+* [Schema Inference on Wikidata](https://www.wikidata.org/wiki/Q57385555)
 ## Draft queries for session
 * Query to be used for [building ShEx](https://w.wiki/W56)
 * Query [that gives 349](https://w.wiki/W54) and should be validated
