@@ -48,7 +48,7 @@ innehåller kod och data som hämtats
 * [sheXer](http://shexer.weso.es/) / [rdfshape](http://rdfshape.weso.es) 
  * [wikishape](http://wikishape.weso.es/) [GITHUB](https://github.com/weso/wikishape/issues)
 * [WikiProject Schemas/Tutorial](https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas/Tutorial)
-* wikidatacon  2019  event [https://media.ccc.de/v/wikidatacon2019-9-data_quality_panel#t=2874 Data Quality Panel]
+* wikidatacon  2019  event [Data Quality Panel](https://media.ccc.de/v/wikidatacon2019-9-data_quality_panel#t=2874)
 ## Draft queries for session
 * Query to be used for [building ShEx](https://w.wiki/W56)
 * Query [that gives 349](https://w.wiki/W54) and should be validated
