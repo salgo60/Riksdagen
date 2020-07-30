@@ -56,3 +56,7 @@ innehåller kod och data som hämtats
 * Query [that gives 349](https://w.wiki/W54) and should be validated
 ### Questions
 1. can we set range dates for start dat pq:P580 > [Q18332247](https://www.wikidata.org/wiki/Q18332247) "2018 Swedish general election"
+
+# Motions in Swedish PM
+
+* [2018](https://w.wiki/YF7)
