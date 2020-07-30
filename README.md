@@ -57,6 +57,8 @@ innehåller kod och data som hämtats
 ### Questions
 1. can we set range dates for start dat pq:P580 > [Q18332247](https://www.wikidata.org/wiki/Q18332247) "2018 Swedish general election"
 
-# Motions in Swedish PM
+# Motions in Swedish Parliament
 
-* [2018](https://w.wiki/YF7)
+* [2018](https://w.wiki/YF7) graf showing co authors
+![](https://pbs.twimg.com/media/EeJq672XgAowFM9?format=png&name=4096x4096)
+
