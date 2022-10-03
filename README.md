@@ -1,5 +1,6 @@
 # Riksdagen
 Container for different things connected with Wikidata <-> and the Swedish Parliament
+* container for [errors found with Open Data at Riksdagen](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/50#issuecomment-1264662050)
 ## Jupyter Notebooks
 innehåller kod och data som hämtats
 * [SOU](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SOU.ipynb) ([en](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-en.ipynb))
