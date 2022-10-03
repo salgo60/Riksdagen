@@ -10,6 +10,7 @@ innehåller kod och data som hämtats
 * [Ledamöter](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20ledam%C3%B6ter.ipynb)
 * [Dokumenttyper](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokumenttyper.ipynb)
 * [Motioner](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner.ipynb)
+   * [Lagstiftande församling](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-python.ipynb) / [video](https://www.youtube.com/watch?v=L3_VCtSMrfc)
 * [Betänknande](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Kommitt%C3%A9direktiv.ipynb)
 * [Direktiv](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Kommitt%C3%A9direktiv.ipynb)
 * Skriftliga frågor 
