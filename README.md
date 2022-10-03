@@ -1,5 +1,5 @@
 # Riksdagen
-Container for different things conncted with Wikidata <-> and the Swedish Parliamen
+Container for different things connected with Wikidata <-> and the Swedish Parliament
 ## Jupyter Notebooks
 innehåller kod och data som hämtats
 * [SOU](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20SOU.ipynb) ([en](https://github.com/salgo60/open-data-examples/blob/master/Riksdagens%20dokument%20Motioner-en.ipynb))
