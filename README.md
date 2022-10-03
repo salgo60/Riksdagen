@@ -38,13 +38,14 @@ innehåller kod och data som hämtats
 * Telegram "Wikidata Sverige"
 * Live sessions
   * Jan Ainali is doing SPARQL searching on Swedish Riksdags (OM) members - [Wikipedia Weekly Network - LIVE Wikidata editing #10](https://www.youtube.com/watch?v=q2iTKemFrq4)
+* [Kopplingssprint 2022](https://github.com/salgo60/NOSAD-POC-Wikidata/blob/main/Kopplingssprint%202022.md)
+
 # Other projects 
 * [Parline](https://data.ipu.org/)
 * openparliament.tv
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
 * [www.politicindex.de](https://www.politicindex.de/) - [video](https://www.youtube.com/watch?v=OzwCqMdXHjs&feature=youtu.be)
-* [Kopplingssprint 2022](https://github.com/salgo60/NOSAD-POC-Wikidata/blob/main/Kopplingssprint%202022.md]
 
 # ShEx
 <a name="ShEx"></a>
