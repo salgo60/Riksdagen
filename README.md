@@ -44,6 +44,7 @@ innehåller kod och data som hämtats
   * [Proposal](https://openparliament.tv/proposal)
     * [tweet](https://twitter.com/OpenHypervideo/status/1270285255107399685)
 * [www.politicindex.de](https://www.politicindex.de/) - [video](https://www.youtube.com/watch?v=OzwCqMdXHjs&feature=youtu.be)
+* [Kopplingssprint 2022](https://github.com/salgo60/NOSAD-POC-Wikidata/blob/main/Kopplingssprint%202022.md]
 
 # ShEx
 <a name="ShEx"></a>
